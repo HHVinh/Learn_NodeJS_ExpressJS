@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HHVinh/Learn_NodeJS_ExpressJS.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "f9",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "hhvinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HHVinh/Learn_NodeJS_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/HHVinh/Learn_NodeJS_ExpressJS#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
