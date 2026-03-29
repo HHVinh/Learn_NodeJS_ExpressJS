@@ -35,13 +35,13 @@
     "mongoose": "^9.1.5",
     "mongoose-delete": "^1.0.7",
     "mongoose-slug-updater": "^3.3.0",
-    "morgan": "^1.10.1"
+    "morgan": "^1.10.1",
+    "sass": "^1.97.3"
   },
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
     "nodemon": "^3.1.11",
-    "prettier": "^3.8.1",
-    "sass": "^1.97.3"
+    "prettier": "^3.8.1"
   }
 }
