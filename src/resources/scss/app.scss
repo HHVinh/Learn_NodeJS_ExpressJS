@@ -1,0 +1,26 @@
+@use 'variables' as *;
+
+.course-item {
+    margin-left: 10px;
+    padding: 0px;
+}
+h1 {
+    color: $red-color;
+}
+
+h2 {
+    color: $blue-color;
+}
+
+/* Giới hạn kích thước ảnh đại diện trên Header */
+.user-avatar {
+    width: 28px;             /* Ép chiều rộng nhỏ lại bằng cỡ chữ */
+    height: 28px;            /* Ép chiều cao tương xứng tỷ lệ 1:1 */
+    border-radius: 50%;      /* Cắt Bo tròn 100% thành hình tròn */
+    margin-right: 4px;       /* Tạo khoảng cách nhỏ để không dính sát vào chữ 'Vinh Huỳnh' */
+}
+
+.checkbox-select-all-options {
+    width: 200px;
+    margin: 0 16px;
+}
